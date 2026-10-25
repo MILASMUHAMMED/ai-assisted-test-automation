@@ -8,3 +8,9 @@ blob-report/
 .claude/settings.local.json
 .claude/hooks/denylist.txt
 CLAUDE.local.md
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
